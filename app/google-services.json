@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477628628851",
+    "firebase_url": "https://friendschat-b7ded.firebaseio.com",
+    "project_id": "friendschat-b7ded",
+    "storage_bucket": "friendschat-b7ded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477628628851:android:30a5470334cfef497ecf06",
+        "android_client_info": {
+          "package_name": "com.example.friendschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477628628851-17l33grcu6tdnm4hn0vo96dim1c2vqm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFkgwB_nplTHg8-mLLF6nviHQYmRUNo9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477628628851-17l33grcu6tdnm4hn0vo96dim1c2vqm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
